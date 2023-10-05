@@ -3,7 +3,7 @@
 
 USE [sample_health]
 
--- check if temp_loader query exists and reset the resources
+-- check if temp_loader exists and reset the resources
 drop table if exists #temp_loader
 
 -- Reload the temp_loader table with new data
@@ -59,7 +59,7 @@ End
 
 USE [sample_health]
 
--- check if temp_loader query exists and reset the resources
+-- check if temp_loader exists and reset the resources
 drop table if exists #temp_loader
 
 -- Reload the temp_loader table with new data
@@ -111,7 +111,7 @@ End
 
 USE [sample_health]
 
--- check if temp_loader query exists and reset the resources
+-- check if temp_loader exists and reset the resources
 drop table if exists #temp_loader
 
 -- Reload the temp_loader table with new data
