@@ -1,4 +1,11 @@
-/* Scripts are using Google Cloud Database */
+/* 
+
+Scripts are using Google Cloud Database
+
+  Link to the final dashboard product - see ppt for discussion:
+  https://lookerstudio.google.com/reporting/b086d274-ceda-48d7-9d10-4ef5c6665f4a
+
+*/
 
 -- v_provider_metrics
 
